@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-### A Variable is something whichs holds the values dynamically.
+### A Variable is something which holds the values dynamically.
 
 a=10 
 # 10 s a string here 
